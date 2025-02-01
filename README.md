@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## 🚀 Cara Penggunaan
 1. Jalankan skrip dengan perintah:
    ```bash
-   python script.py
+   python bot.py
    ```
 2. Pilih format data yang diinginkan.
 3. Pilih format output (JSON atau TXT).
